@@ -1,1 +1,3 @@
-# Prodigy_WD_05-Weather-Web-App
+# Weather-Web-App
+
+The code is in another branch 
